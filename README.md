@@ -1,4 +1,7 @@
 # Data Science Internship at Encryptix
+<div align="left">
+  <img src="https://github.com/Sumitk874/Encryptix/assets/69776082/ec181e8b-6e95-46cc-b9ff-5bcb7f3be0b6" alt="Encryptix Internship" />
+</div>
 
 Welcome to the repository for my data science internship at Encryptix! This repository contains all the files related to the tasks I've worked on during my internship. Below is an overview of the contents and how to navigate through the tasks.
 
