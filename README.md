@@ -16,7 +16,7 @@ The repository is organized into individual tasks, each containing relevant file
   - Sales Prediction
   
 - **Task 3:**
-  - _coming soon_
+  - Iris Flower Classification
 
 
 ## How to Use
